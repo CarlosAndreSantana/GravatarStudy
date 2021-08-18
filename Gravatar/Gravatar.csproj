@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageId>Gravatar</PackageId>
+    <Version>1.0.0</Version>
+    <Icon>https://www.gravatar.com/avatar/c0c80e8b046d49dd27432dd7166c16bd</Icon>
+    <License>MIT</License>
+    <Authors>Carlos Santana</Authors>
+    <Company>Independente</Company>
+    <PackageDescription>Extension For Gravatar</PackageDescription>
+    <Description>Extension For Gravatar </Description>
+    <RepositoryUrl>https://github.com/CarlosAndreSantana/GravatarStudy</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/CarlosAndreSantana/GravatarStudy</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Gravatar</PackageTags>
+    <Title>Gravatar Extension </Title>
+    <Summary>Extension for Gravatar</Summary>
+  </PropertyGroup>
+
+</Project>
